@@ -38,5 +38,6 @@ hr {
 h2 {
 	color: rgb(242, 26, 55);
 	font-size: 2em;
+	text-align: center;
 	text-shadow: 2px 2px 4px black;
 }
