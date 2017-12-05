@@ -1,0 +1,42 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	background-image: url("backgroundTree.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato';
+}
+
+
+
+
+.big {
+	margin-top: 15em;
+}
+
+.jumbotron {
+	background-color: rgba(255, 255, 255, 0.7); 
+	color: rgb(242, 26, 55);
+}
+
+h1 {
+	color: rgb(242, 26, 55);
+	font-size: 6em;
+	text-align: center;
+	text-shadow: 2px 2px 4px black;
+}
+
+hr {
+	width: 80%;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+
+h2 {
+	color: rgb(242, 26, 55);
+	font-size: 2em;
+	text-shadow: 2px 2px 4px black;
+}
